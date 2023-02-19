@@ -2171,6 +2171,7 @@ ignition-transport11:
   ubuntu:
     focal: [libignition-transport11-dev]
     jammy: [libignition-transport11-dev]
+    bionic: [libignition-transport11-dev]
 ignition-transport8:
   debian:
     buster: [libignition-transport8-dev]
